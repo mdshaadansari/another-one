@@ -1,4 +1,4 @@
 # another-one
 nope
-wait a minute
+wait a minute.
 
